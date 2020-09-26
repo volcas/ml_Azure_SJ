@@ -1,0 +1,31 @@
+# Flights Delay Data 
+
+This dataset consists of the following fields:
+
+Year: The year in which the flight took place.
+
+Month: The month in which the flight took place.
+
+DayofMonth: The day of the month on which the flight took place.
+
+DayOfWeek: The week day on which the flight took place.
+
+Carrier: The airline operating the flight.
+
+OriginAirportID: A numeric code indicating the departure airport.
+
+DestAirportID: A numeric code indicating the destination airport.
+
+CRSDepTime: The scheduled departure time in 24-hour format.
+
+DepDelay: The number of minutes late or early that the flight departed.
+
+DepDel15: A Boolean column indicating whether or not the flight departed 15 minutes or more late.
+
+CRSArrTime: The scheduled arrival time.
+
+ArrDelay: The number of minutes late or early that the flight arrived.
+
+ArrDel15: Whether or not the flight arrived 15 or minutes more late.
+
+Cancelled: Whether or not the flight was cancelled.
